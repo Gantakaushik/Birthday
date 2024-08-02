@@ -5,6 +5,7 @@ html {
 body {
   font-family: 'Poppins', sans-serif;
   margin: 0;
+  /* background-color: lightpink; */
 }
 
 
@@ -215,7 +216,9 @@ body {
   font-weight: lighter;
   margin: 10px 0 0;
 }
-
+.nine{
+  top: 0%;
+}
 .nine p {
   font-size: 2rem;
   font-weight: lighter;
